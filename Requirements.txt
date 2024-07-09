@@ -1,0 +1,5 @@
+cupy~=13.2.0
+opencv-python~=4.10.0.84
+numpy~=2.0.0
+uvicorn~=0.20.0
+fastapi~=0.103.0
